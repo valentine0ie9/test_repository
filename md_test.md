@@ -1,7 +1,7 @@
 # md_test.md
 1. hello
-2. gonizziwa
-3. nihao
+2. duplicated
+3. duplicated
 
 # blue_branch
 1. freedom
